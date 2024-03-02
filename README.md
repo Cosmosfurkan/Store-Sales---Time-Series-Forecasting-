@@ -1,6 +1,5 @@
-Aşağıda, verilen kodun GitHub'da yayınlanacak bir README dosyası örneği bulunmaktadır. Bu dosya, projenizi açıklamak, kullanıcıları yönlendirmek ve projenin kullanımıyla ilgili bilgiler sağlamak için kullanılabilir.
 
-```markdown
+
 # Kaggle Submission Format: Regression Project
 
 ## Overview
