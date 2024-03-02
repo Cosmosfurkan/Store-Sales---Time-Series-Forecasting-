@@ -13,7 +13,7 @@ This repository contains the code for a Kaggle submission focusing on a regressi
 - [Usage](#usage)
 - [Model Information](#model-information)
 - [Contributing](#contributing)
-- [License](#license)
+
 
 ## Setup
 
@@ -83,9 +83,5 @@ The project utilizes a combination of linear regression and random forest models
 
 Contributions to the project are welcome! Feel free to fork the repository and submit pull requests.
 
-## License
 
-This project is licensed under the [MIT License](LICENSE).
-```
 
-Bu README dosyası, projenizi açıklamak ve diğer geliştiricilere projenizle nasıl etkileşimde bulunacaklarını anlatmak için kullanılabilir. Ayrıca, projenizin lisansını belirtmek ve kullanıcıların projenizi nasıl başlatabileceğini anlamalarına yardımcı olmak için de bilgiler içerir.
