@@ -79,6 +79,8 @@ The project utilizes a combination of linear regression and random forest models
 - Random Forest: `src/model.py` - Random forest model.
 - Voting Regressor: `src/model.py` - Ensemble model combining linear regression and random forest.
 
+  dataset link: https://www.kaggle.com/competitions/store-sales-time-series-forecasting/data
+
 ## Contributing
 
 Contributions to the project are welcome! Feel free to fork the repository and submit pull requests.
